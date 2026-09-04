@@ -1,0 +1,31 @@
+CHANGES.md
+  s_ab3338f112418c::t_f5c7d303e29fce 29
+apollo-portal/src/main/java/com/ctrip/framework/apollo/openapi/server/service/ServerItemOpenApiService.java
+  s_ab3338f112418c::t_c2b9f9631b8083 185-186,209-210,213-214,220-222,233-234
+apollo-portal/src/main/java/com/ctrip/framework/apollo/openapi/v1/controller/ItemController.java
+  s_ab3338f112418c::t_fd7a6e801906eb 245,266,285,298
+apollo-portal/src/test/java/com/ctrip/framework/apollo/openapi/server/service/ServerItemOpenApiServiceTest.java
+  s_ab3338f112418c::t_7bb1ed2baf961d 208,216-217,254-274
+apollo-portal/src/test/java/com/ctrip/framework/apollo/openapi/v1/controller/ItemControllerParamBindLowLevelTest.java
+  s_ab3338f112418c::t_c8965e4ad5f884 470-497,527-537
+docs/en/portal/apollo-open-api-platform.md
+  s_ab3338f112418c::t_81eb5eaef70231 885,887
+docs/zh/portal/apollo-open-api-platform.md
+  s_ab3338f112418c::t_482fedad735d7d 189,880,882
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ac952618fc214af1c5aa2bd7a733387428deec75",
+  "prompts": {},
+  "sessions": {
+    "s_ab3338f112418c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af0ae5fa-43d5-4ac5-9462-2fced6b38d6a",
+        "model": "unknown"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+apollo-portal/src/main/java/com/ctrip/framework/apollo/openapi/v1/controller/ItemController.java
+  s_e202009154f7bb::t_8981126bfabf17 238-300
+docs/en/portal/apollo-open-api-platform.md
+  s_e202009154f7bb::t_c3b148c21c6e62 871-955
+apollo-portal/pom.xml
+  s_e202009154f7bb::t_ee7bad552408da 30
+apollo-portal/src/test/java/com/ctrip/framework/apollo/openapi/server/service/ServerItemOpenApiServiceTest.java
+  s_e202009154f7bb::t_f3ca31046ae540 201-299
+  s_e202009154f7bb::t_812dd74d314e2e 32
+apollo-portal/src/test/java/com/ctrip/framework/apollo/openapi/v1/controller/ItemControllerParamBindLowLevelTest.java
+  s_e202009154f7bb::t_053fb09454eb0b 458-540
+  s_e202009154f7bb::t_4c38db6a7c6825 22
+  s_e202009154f7bb::t_92a3e769f1011e 49
+apollo-portal/src/main/java/com/ctrip/framework/apollo/openapi/server/service/ItemOpenApiService.java
+  s_e202009154f7bb::t_2b50a88571d8b1 55-63
+docs/zh/portal/apollo-open-api-platform.md
+  s_e202009154f7bb::t_41277a204a9ef3 189
+  s_e202009154f7bb::t_897c39c20b5703 866-950
+apollo-portal/src/main/java/com/ctrip/framework/apollo/openapi/server/service/ServerItemOpenApiService.java
+  s_e202009154f7bb::t_1a8530cffc0f48 184-247
+  s_e202009154f7bb::t_cdc1d1ed82e732 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "8dc4b559f2000e603a1b9b3f9c8e9c9523584e91",
+  "prompts": {},
+  "sessions": {
+    "s_e202009154f7bb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5fdb09af-13f0-485d-9f8e-71136b106f49",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
